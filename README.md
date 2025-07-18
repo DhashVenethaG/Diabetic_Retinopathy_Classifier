@@ -1,4 +1,3 @@
-# Machine_Learning_Projects
 # Diabetic Retinopathy Detection Using Custom CNN and XGBoost
 
 This project presents a machine learning pipeline for detecting Diabetic Retinopathy (DR) from retinal fundus images. A custom Convolutional Neural Network (CNN) is used for deep feature extraction, and the features are classified using XGBoost. The model achieves 95% accuracy and includes a real-time user interface built with Gradio.
